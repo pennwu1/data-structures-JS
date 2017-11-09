@@ -1,0 +1,26 @@
+{
+  "name": "data-structures-js",
+  "version": "1.0.0",
+  "description": "1% inspiration, 99% perspiration",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pennwu1/data-structures-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pennwu1/data-structures-JS/issues"
+  },
+  "homepage": "https://github.com/pennwu1/data-structures-JS#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
